@@ -41,4 +41,4 @@ The `railway.xlsx` file can be used to examine or update the raw data.
 
 ## License
 
-This project is licensed under [MIT LICENSE]. See the LICENSE file for details.
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
